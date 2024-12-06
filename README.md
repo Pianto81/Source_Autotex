@@ -1,4 +1,4 @@
-# Source Autotex
+# Source Autotexq
 
 A QtPy5 app that uses Nem's VTFCmd to create vtf files automatically.
 
